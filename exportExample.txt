@@ -1,0 +1,3 @@
+Russia:Moscow:1
+UK:London:5
+China:Beijing:0
